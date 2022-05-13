@@ -14,6 +14,11 @@
 
 #### :computer: Programming languages and tools: 
 <p>	
+
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=matiasott&show_icons=true&hide_border=true" />
+    
+    
+ 
 <img width="1%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> &nbsp Python <br />
 <img width="1%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> &nbsp Javascript <br />
 <img width="1%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> &nbsp Postman <br />
