@@ -19,16 +19,16 @@
     
     
  
-<img width="1%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> &nbsp Python <br />
-<img width="1%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> &nbsp Javascript <br />
-<img width="1%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> &nbsp Postman <br />
-<img width="1%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> &nbsp Git <br />
-<img width="1%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> &nbsp HTML <br />
-<img width="1%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> &nbsp MySQL <br />
-<img width="1%" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-icon.svg"> &nbsp IFTTT <br />
-<img width="1%" src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg"> &nbsp Google App Script <br />
-<img width="1%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQscweyvfutPn5sedFwsbqL4ORlhAg-MVZvWcyo7PcXpWjW6vpxiCYstXmKHp2GLaPoZUk&usqp=CAU"> &nbsp Django <br />
-<img width="1%" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"> &nbsp CSS <br />
+<img width="1%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> &nbsp;Python <br />
+<img width="1%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> &nbsp;Javascript <br />
+<img width="1%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> &nbsp;Postman <br />
+<img width="1%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> &nbsp;Git <br />
+<img width="1%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> &nbsp;HTML <br />
+<img width="1%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> &nbsp;MySQL <br />
+<img width="1%" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-icon.svg"> &nbsp;IFTTT <br />
+<img width="1%" src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg"> &nbsp;Google App Script <br />
+<img width="1%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQscweyvfutPn5sedFwsbqL4ORlhAg-MVZvWcyo7PcXpWjW6vpxiCYstXmKHp2GLaPoZUk&usqp=CAU"> &nbsp;Django <br />
+<img width="1%" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">  &nbsp;CSS <br />
 </p>
 
 <!--
