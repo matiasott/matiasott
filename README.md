@@ -12,7 +12,6 @@
                             and a strong ability to work in teams.
                             My constant curiosity and desire for learning drive me to keep growing."""
 ```
-
 ### Programming Languages:
 <div style="display: flex;">
     <img src ="	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -55,8 +54,21 @@
 <div style="display: flex;">
     <img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whitehttps://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src ="	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src ="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+</div>
+
+### IDE:
+<div style="display: flex;">
+    <img src ="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
+
+### Group:
+<div style="display: flex;">
+    <img src ="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src ="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white">
+    <img src ="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
 </div>
 
 ### Statistics:
@@ -71,6 +83,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasott&theme=dark" width="300">
     </div>
 </div>
+
+
 
 
 
